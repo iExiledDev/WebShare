@@ -1,1 +1,6 @@
 *.deb
+.DS_Store
+Builds
+obj
+_
+*.dylib
