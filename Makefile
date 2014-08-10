@@ -1,3 +1,5 @@
+ARCHS = armv7 arm64
+
 TWEAK_NAME = WebShare
 WebShare_FILES = Tweak.xm
 WebShare_FRAMEWORKS = UIKit
